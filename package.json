@@ -1,0 +1,18 @@
+{
+  "name": "charles_howework",
+  "version": "1.0.0",
+  "description": "readme file for homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "inquirer": "^6.2.0",
+    "node-geocoder": "^3.22.0",
+    "require": "^2.4.20"
+  },
+  "keywords": []
+}
